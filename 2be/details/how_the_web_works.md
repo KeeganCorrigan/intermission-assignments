@@ -72,7 +72,7 @@ Hyper text transfer protocol.
 
 1. What matches the domain names with numeric IP addresses?
 
-Domain name system.
+DNS resolver.
 
 
 
